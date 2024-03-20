@@ -1,11 +1,11 @@
 {
-  "name": "X-BOT-MD",
+  "name": "DX-BOT",
   "version": "3.0.0",
   "description": "WhatsApp Helper Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start . --attach --name X-BOT-MD"
+    "start": "pm2 start . --attach --name DX-BOT"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "ASWIN SPARKY",
+  "author": "DARK-X369",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
